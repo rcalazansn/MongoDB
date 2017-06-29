@@ -1,0 +1,13 @@
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\bin\Debug\MongoDB_01.exe.config
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\bin\Debug\MongoDB_01.exe
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\bin\Debug\MongoDB_01.pdb
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\bin\Debug\MongoDB.Bson.dll
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\bin\Debug\MongoDB.Driver.dll
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\bin\Debug\MongoDB.Bson.xml
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\bin\Debug\MongoDB.Driver.xml
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\obj\Debug\MongoDB_01.csprojResolveAssemblyReference.cache
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\obj\Debug\MongoDB_01.exe
+C:\Users\Desenv\Documents\Visual Studio 2015\Projects\MongoDB_01\MongoDB_01\obj\Debug\MongoDB_01.pdb
