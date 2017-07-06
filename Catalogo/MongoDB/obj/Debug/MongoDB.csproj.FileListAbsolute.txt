@@ -1,0 +1,13 @@
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.csprojResolveAssemblyReference.cache
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.exe.config
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.exe
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.pdb
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Bson.dll
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.dll
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Bson.xml
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.xml
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.exe
+c:\users\desenv\documents\visual studio 2017\Projects\MongoDB\MongoDB\obj\Debug\MongoDB.pdb
